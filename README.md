@@ -1,5 +1,5 @@
 Question Generator
-A question generator application built with Next.js and TypeScript. This project allows users to generate questions from a given set of data.
+A question generator application built with Next.js and TypeScript. This project allows users to generate questions from a given pdf file.
 
 Features
 Next.js: A React framework for server-side rendering and static site generation.
